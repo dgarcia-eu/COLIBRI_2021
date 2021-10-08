@@ -2,7 +2,7 @@
 title: "Computational Social Science"
 subtitle: "Understanding Human Behavior in the Digital Society"
 author: "David Garcia <br> *Graz University of Technology and CSH Vienna*"
-date: "8.10.2021"
+date: "8.10.2021<br> Slides vailable at: dgarcia.eu/colibri2021"
 output:
   xaringan::moon_reader:
     lib_dir: libs 
